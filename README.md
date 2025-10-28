@@ -7,12 +7,12 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=.5&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=ffffff"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=1&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=ffffff"  />
 </div>
 
 ###
 
-<p align="left">About Me<br><br>🛠️Hi, I'm a Software Engineer at Capgemini .<br>📚 Currently learning Docker and Cloud Native Development.<br>🎲 Hobbies : Reading and playing chess.</p>
+<p align="left">🛠️Hi, I'm a Software Engineer at Capgemini .<br>📚 Currently learning Docker and Cloud Native Development.<br>🎲 Hobbies : Reading and playing chess.</p>
 
 ###
 
